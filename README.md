@@ -1,14 +1,14 @@
 
 # Hi 👋, I'm Edijs. Self-Taught WEB Developer
 
-I believe I am a Friendly, Helpful, and Hardworking person.  
+Other people describe me as a Friendly, Helpful, and Hardworking person.  
 One of my passion is hockey which I played as a kid, but mostly I am a big fan.  
 Recently I started doing home workouts which helps me clear my head. Besides that, I like to watch movies, take a walk, or simply just listen to music.  
 My biggest passion is WEB Development, which I started learning in my early 20's.
 
 ## 🚀 About My Journey In WEB Development
 
-WEB Development I started, when I was studying in college. I was learning Front-End languages - HTML/CSS/Vanilla JS and later jQuery library.  
+WEB Development I started, after college graduation. I started with Front-End languages - HTML/CSS/Vanilla JS and later jQuery library.  
 After a few hundred lines and a few scripts, I understood that I like coding and want to do it for living.  
 I took two courses which were about WEB Development and learned a lot from them, but those courses were teaching only basics, so I needed to learn more. I did that by taking additional online courses mostly from the Udemy platform, and after a few months, I landed my first IT job as a Junior Full-Stack WEB Developer.  
 So far I have worked in a couple of start-ups and gained a couple of years of experience, but I believe this is just the beginning of my journey.
