@@ -20,7 +20,7 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 - SASS
 - Bootstrap
 - JavaScript
-- Basics of TypeScript
+- TypeScript (Basic knowledge)
 - VueJS
 - ReactJS (Currently Learning)
 
