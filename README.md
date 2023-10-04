@@ -20,10 +20,11 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 - HTML/CSS
 - SASS
 - Bootstrap
+- Tailwind
 - JavaScript
 - TypeScript (Basic knowledge)
 - VueJS
-- ReactJS (Currently Learning)
+- ReactJS
 
 **Back-End**
 
@@ -32,11 +33,12 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 - Yii2
 - Laravel
 - SQL (Basic knowledge)
+- C#
 
 **Other Skills & Tools**
 
 - Responsive design
-- Using VSC Editor
+- VSC Editor
 - GIT
 - NativeScript
 
@@ -61,4 +63,4 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 
 ## 	📭 Feedback
 
-If you have any feedback, please reach out to us at edijsapse@gmail.com
+If you have any feedback, please reach out to me at edijsapse@gmail.com
