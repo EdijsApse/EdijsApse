@@ -17,30 +17,15 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 
 **Front-End**
 
-- HTML/CSS
-- SASS
-- Bootstrap
-- Tailwind
-- JavaScript
-- TypeScript (Basic knowledge)
-- VueJS
-- ReactJS
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="35" alt="Html 5" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="50" alt="Sass" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" alt="Bootstrap" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="60" alt="TailwindCSS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="40" alt="jQuery" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="35" alt="JavaScript" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" alt="TypeScript" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="46" alt="VueJS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" alt="ReactJS" />
 
 **Back-End**
 
-- PHP
-- ExpressJS
-- Yii2
-- Laravel
-- SQL
-- C#
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="65" alt="PHP" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="35" alt="Laravel" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="55" alt="NodeJS" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" width="50" alt="MySQL" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="30" alt="C#" />
 
 **Other Skills & Tools**
 
-- VSC & VS Editor
-- GIT
-- NativeScript
-- Unit Testing
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" alt="Visual Studio Code" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="35" alt="Visual Studio" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35" alt="GIT" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" width="35" alt="NativeScript" />&ensp;&ensp;
 
 
 ## 🎓 Courses & Certificates
