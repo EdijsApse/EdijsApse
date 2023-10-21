@@ -32,15 +32,15 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 - ExpressJS
 - Yii2
 - Laravel
-- SQL (Basic knowledge)
+- SQL
 - C#
 
 **Other Skills & Tools**
 
-- Responsive design
-- VSC Editor
+- VSC & VS Editor
 - GIT
 - NativeScript
+- Unit Testing
 
 
 ## 🎓 Courses & Certificates
