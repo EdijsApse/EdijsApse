@@ -38,18 +38,22 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 
 ## 📋 GitHub Projects Worth Mentioning
 
-- [Express Practice - Simple Marketplace](https://github.com/EdijsApse/express-practice)
-    - **Used Techs** - ExpressJS, MongoDB
+- [Weather App](https://github.com/EdijsApse/weather-app)
+    - **Used Techs** - ReactJS, TailwindCSS
+    - **Description** - Applications allows you to search for any city or place and provides you with the upcoming 3-day weather forecast.
 - [Personal Resume Builder](https://github.com/EdijsApse/resume-builder)
     - **Used Techs** - Laravel, MySQL, VUE, Sass
+    - **Description** - Let's you create your resume with sections like Languages, Education, Experiences, etc., and you can also download it as a .pdf document.
 - [Simple Job-Board](https://github.com/EdijsApse/job-board)
     - **Used Techs** - Laravel, MySQL, ReactJS, Sass
-    - **Notes** - For ReactJS & Laravel practice
+    - **Description** - Basic application where you can Sign Up as Company, if you want to place a vacancy or as a regular user, if you want to search for jobs. You can also add sections like Education, Work experience as a regular user, or if you are company, you can search for candidates and offer them your vacancy.
+- [Flight Planner - Codelex Home Assignment](https://github.com/EdijsApse/Flight_Planner)
+    - **Used Techs** - C#, EntityFramework
+    - **Description** - Simple CRUD application where you can manage flights.
 
 ## 	📭 Contacts
 
 Feel free to contact me
-
 
 <a href="https://www.linkedin.com/in/edijs-apse/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:edijsapse@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" /></a>&ensp;&ensp;<a href="https://www.facebook.com/EdijsApse/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" width="30" alt="Facebook Icon" /></a>
 
