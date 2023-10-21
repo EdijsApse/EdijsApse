@@ -25,7 +25,7 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 
 **Other Skills & Tools**
 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" alt="Visual Studio Code" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="35" alt="Visual Studio" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35" alt="GIT" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" width="35" alt="NativeScript" />&ensp;&ensp;
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="35" alt="Visual Studio Code" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="35" alt="Visual Studio" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="35" alt="GIT" />&ensp;&ensp;<img src="https://cdn.worldvectorlogo.com/logos/nativescript.svg" width="35" alt="NativeScript" />
 
 
 ## 🎓 Courses & Certificates
@@ -36,7 +36,7 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
 - [100 Days Of Code - 2023 Web Development Bootcamp)](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 - [Vue - The Complete Guide (incl. Router & Composition API))](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
-## 📋 Github Projects Worth Mentioning
+## 📋 GitHub Projects Worth Mentioning
 
 - [Express Practice - Simple Marketplace](https://github.com/EdijsApse/express-practice)
     - **Used Techs** - ExpressJS, MongoDB
@@ -46,6 +46,10 @@ So far I have worked in a couple of start-ups and gained a couple of years of ex
     - **Used Techs** - Laravel, MySQL, ReactJS, Sass
     - **Notes** - For ReactJS & Laravel practice
 
-## 	📭 Feedback
+## 	📭 Contacts
 
-If you have any feedback, please reach out to me at edijsapse@gmail.com
+Feel free to contact me
+
+
+<a href="https://www.linkedin.com/in/edijs-apse/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" alt="Linked In" /></a>&ensp;&ensp;<a href="mailto:edijsapse@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" width="30" alt="Gmail Icon In" /></a>&ensp;&ensp;<a href="https://www.facebook.com/EdijsApse/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" width="30" alt="Facebook Icon" /></a>
+
