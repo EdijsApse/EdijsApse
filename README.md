@@ -30,6 +30,7 @@ I achieved this by enrolling in additional online courses, mainly through the Ud
 
 - Riga Coding School - WEB Development & WEB Design
 - ITLat - WEB Development
+- Codelex - C# Developer
 - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - [100 Days Of Code - 2023 Web Development Bootcamp)](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 - [Vue - The Complete Guide (incl. Router & Composition API))](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
