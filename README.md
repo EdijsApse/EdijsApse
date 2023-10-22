@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Edijs. Self-Taught WEB Developer
+# Hi 👋, I'm Edijs. Self-Taught Software Developer
 
 Other people describe me as a friendly, helpful, and hardworking person. One of my passions is hockey, which I played as a kid, but I'm mostly a big fan now.
 
