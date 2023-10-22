@@ -49,7 +49,6 @@ I achieved this by enrolling in additional online courses, mainly through the Ud
 - [Flight Planner - Codelex Home Assignment](https://github.com/EdijsApse/Flight_Planner)
     - **Used Techs** - C#, EntityFramework
     - **Description** - Simple CRUD application where you can manage flights.
-    - 
 - [IF Employee - Codelex Home Assignment](https://github.com/EdijsApse/IF_Employee)
     - **Used Techs** - C#, EntityFramework
     - **Description** - An application that allows you to add employees who can then report their working hours.
